@@ -7,7 +7,7 @@ function App() {
   return (
     <>
 
-      <h1> React add world tour </h1>
+      <h1> React add world tour project </h1>
      
     </>
   )
