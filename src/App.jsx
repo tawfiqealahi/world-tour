@@ -1,5 +1,6 @@
 
 import './App.css'
+import Countries from './components/Countries/Countries'
 
 function App() {
  
@@ -8,7 +9,7 @@ function App() {
     <>
 
       <h1> React add world tour project </h1>
-     
+     <Countries></Countries>
     </>
   )
 }
